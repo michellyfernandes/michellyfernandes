@@ -1,5 +1,5 @@
 ## 💫 About Me:
-Hi, I'm Michelly! <br>A software engineer from Brazil <br> <br>
+:octocat: Hi, I'm Michelly! <br>A software engineer from Brazil <br> <br>
 🌱 I’m currently learning Python <br>
 📫 How to reach me michellyfernandesj@gmail.com
 
